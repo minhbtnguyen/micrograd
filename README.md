@@ -1,5 +1,5 @@
-# storyteller
-Andrej Karpathy's Storyteller
+# storyteller_micrograd
+Andrej Karpathy's Micrograd - Storyteller Series
 
 ## Local setup
 
@@ -10,16 +10,4 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
-```
-
-Register the kernel for Jupyter:
-
-```bash
-python -m ipykernel install --user --name storyteller --display-name "Python (storyteller)"
-```
-
-Launch Jupyter:
-
-```bash
-jupyter lab
 ```
