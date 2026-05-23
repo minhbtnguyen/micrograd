@@ -1,5 +1,5 @@
-# storyteller_micrograd
-Andrej Karpathy's Micrograd - Storyteller Series
+# Micrograd
+Build mini auto-gradient from scratch
 
 ## Local setup
 
