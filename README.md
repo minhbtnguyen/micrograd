@@ -10,10 +10,10 @@
 
 ## What's inside
 
-- **`micrograd/engine.py`** — the `Value` class: scalar autograd via Python operator overloads.
-- **`micrograd/nn.py`** — neural-net building blocks: `Module` → `Neuron` → `Layer` → `MLP`.
-- **`notebooks/`** — step-by-step learning notebooks (gradients, MLP from scratch, PyTorch comparison).
-- **`demo.ipynb`** — train an MLP on `make_moons`, then on a 2D Vietnamese flag.
+- **`micrograd/engine.py`** - the `Value` class: scalar autograd via Python operator overloads.
+- **`micrograd/nn.py`** - neural-net building blocks: `Module` to `Neuron` to `Layer` to `MLP`.
+- **`notebooks/`** - step-by-step learning notebooks (gradients, MLP from scratch, PyTorch comparison).
+- **`demo.ipynb`** - train an MLP on `make_moons`.
 
 ## Local setup
 
