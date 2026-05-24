@@ -36,3 +36,7 @@ model = MLP(2, [16, 16, 1])     # 2 -> 16 -> 16 -> 1
 y = model([Value(2.0), Value(-1.0)])
 y.backward()                    # gradients flow to every weight and bias
 ```
+
+## Reference
+
+- Andrej Karpathy's [micrograd](https://github.com/karpathy/micrograd).
